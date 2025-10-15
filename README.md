@@ -28,7 +28,7 @@ Crie o banco de dados no SQLite, ou outro SGBD que você estiver usando, rodando
 php artisan migrate
 ```
 
-Se quiser também popular o banco com dados de teste utilizando seeds, faça:
+(Opcional) Se quiser também popular o banco com dados de teste utilizando seeds, faça:
 
 ```
 php artisan db:seed
