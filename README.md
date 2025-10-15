@@ -40,7 +40,7 @@ Rode o servidor localmente, executando:
 php artisan serve
 ```
 
-Então, basta acessar "http://127.0.0.1:8000" para visualizar a tela da aplicação.
+Por padrão, a aplicação rodará em "http://127.0.0.1:8000".
 
 # Considerações finais
 
