@@ -22,7 +22,7 @@ Gere a chave única para criptografar dados:
 php artisan key:generate
 ```
 
-Crie o banco de dados no SQLite, ou outro SGBD que você estiver usando, e depois rode a migração:
+Crie o banco de dados no SQLite, ou outro SGBD que você estiver usando, rodando a migração:
 
 ```
 php artisan migrate
